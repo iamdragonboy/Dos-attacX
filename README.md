@@ -10,7 +10,7 @@ $ pkg update -y && pkg upgrade -y
 $ apt update -y && apt upgrade -y
 $ pkg install git
 $ pkg install python -y
-$ git clone https://github.com/Whomrx666/Dos-attacX.git
+$ git clone https://github.com/iamdragonboy/Dos-attacX.git
 $ cd Dos-attacX
 $ pip install -r requirements.txt
 $ python Dos-attacX.py
