@@ -31,12 +31,12 @@ $ python Dos-attacX.py
 
 # Result!
 
-<img src="https://github.com/Whomrx666/Dos-attacX/blob/main/result.jpg">
+<img src="https://github.com/iamdragonboy/Dos-attacX/blob/main/result.jpg">
 
 ## Observation
 This is a tool for education only, I am not responsible for any misuse
 ### Original Author
-<a href="https://github.com/Whomrx666"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
+<a href="https://github.com/iamdragonboy"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
